@@ -14,3 +14,5 @@ https://www.geeksforgeeks.org/how-to-install-configure-and-use-git-on-ubuntu/
 
  Agian:
  git config --global credential.credentialStore gpg
+
+Lortu det!! Baina ez dakit oso ondo nola...
